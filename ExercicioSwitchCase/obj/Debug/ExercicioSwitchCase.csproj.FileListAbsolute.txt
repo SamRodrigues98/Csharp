@@ -1,0 +1,7 @@
+C:\Users\modco\Desktop\Aulas\ExercicioSwitchCase\bin\Debug\ExercicioSwitchCase.exe.config
+C:\Users\modco\Desktop\Aulas\ExercicioSwitchCase\bin\Debug\ExercicioSwitchCase.exe
+C:\Users\modco\Desktop\Aulas\ExercicioSwitchCase\bin\Debug\ExercicioSwitchCase.pdb
+C:\Users\modco\Desktop\Aulas\ExercicioSwitchCase\obj\Debug\ExercicioSwitchCase.csproj.AssemblyReference.cache
+C:\Users\modco\Desktop\Aulas\ExercicioSwitchCase\obj\Debug\ExercicioSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\modco\Desktop\Aulas\ExercicioSwitchCase\obj\Debug\ExercicioSwitchCase.exe
+C:\Users\modco\Desktop\Aulas\ExercicioSwitchCase\obj\Debug\ExercicioSwitchCase.pdb

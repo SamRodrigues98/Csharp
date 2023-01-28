@@ -1,0 +1,7 @@
+C:\Users\modco\Desktop\Aulas\CalculatorOnlyTest\bin\Debug\CalculatorOnlyTest.exe.config
+C:\Users\modco\Desktop\Aulas\CalculatorOnlyTest\bin\Debug\CalculatorOnlyTest.exe
+C:\Users\modco\Desktop\Aulas\CalculatorOnlyTest\bin\Debug\CalculatorOnlyTest.pdb
+C:\Users\modco\Desktop\Aulas\CalculatorOnlyTest\obj\Debug\CalculatorOnlyTest.csproj.AssemblyReference.cache
+C:\Users\modco\Desktop\Aulas\CalculatorOnlyTest\obj\Debug\CalculatorOnlyTest.csproj.CoreCompileInputs.cache
+C:\Users\modco\Desktop\Aulas\CalculatorOnlyTest\obj\Debug\CalculatorOnlyTest.exe
+C:\Users\modco\Desktop\Aulas\CalculatorOnlyTest\obj\Debug\CalculatorOnlyTest.pdb

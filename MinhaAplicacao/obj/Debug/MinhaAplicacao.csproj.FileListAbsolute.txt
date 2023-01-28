@@ -1,0 +1,7 @@
+C:\Users\modco\Desktop\Aulas\MinhaAplicacao\bin\Debug\MinhaAplicacao.exe.config
+C:\Users\modco\Desktop\Aulas\MinhaAplicacao\bin\Debug\MinhaAplicacao.exe
+C:\Users\modco\Desktop\Aulas\MinhaAplicacao\bin\Debug\MinhaAplicacao.pdb
+C:\Users\modco\Desktop\Aulas\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.AssemblyReference.cache
+C:\Users\modco\Desktop\Aulas\MinhaAplicacao\obj\Debug\MinhaAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\modco\Desktop\Aulas\MinhaAplicacao\obj\Debug\MinhaAplicacao.exe
+C:\Users\modco\Desktop\Aulas\MinhaAplicacao\obj\Debug\MinhaAplicacao.pdb

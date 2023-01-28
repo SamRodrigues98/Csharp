@@ -1,0 +1,7 @@
+C:\Users\modco\Desktop\Aulas\Myconsole01\bin\Debug\Myconsole01.exe.config
+C:\Users\modco\Desktop\Aulas\Myconsole01\bin\Debug\Myconsole01.exe
+C:\Users\modco\Desktop\Aulas\Myconsole01\bin\Debug\Myconsole01.pdb
+C:\Users\modco\Desktop\Aulas\Myconsole01\obj\Debug\Myconsole01.csproj.AssemblyReference.cache
+C:\Users\modco\Desktop\Aulas\Myconsole01\obj\Debug\Myconsole01.csproj.CoreCompileInputs.cache
+C:\Users\modco\Desktop\Aulas\Myconsole01\obj\Debug\Myconsole01.exe
+C:\Users\modco\Desktop\Aulas\Myconsole01\obj\Debug\Myconsole01.pdb

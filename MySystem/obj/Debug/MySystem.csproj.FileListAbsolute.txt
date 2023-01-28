@@ -1,0 +1,10 @@
+C:\Users\modco\Desktop\Aulas\MySystem\obj\Debug\MySystem.csproj.AssemblyReference.cache
+C:\Users\modco\Desktop\Aulas\MySystem\obj\Debug\MySystem.Form1.resources
+C:\Users\modco\Desktop\Aulas\MySystem\obj\Debug\MySystem.Properties.Resources.resources
+C:\Users\modco\Desktop\Aulas\MySystem\obj\Debug\MySystem.csproj.GenerateResource.cache
+C:\Users\modco\Desktop\Aulas\MySystem\obj\Debug\MySystem.csproj.CoreCompileInputs.cache
+C:\Users\modco\Desktop\Aulas\MySystem\bin\Debug\MySystem.exe.config
+C:\Users\modco\Desktop\Aulas\MySystem\bin\Debug\MySystem.exe
+C:\Users\modco\Desktop\Aulas\MySystem\bin\Debug\MySystem.pdb
+C:\Users\modco\Desktop\Aulas\MySystem\obj\Debug\MySystem.exe
+C:\Users\modco\Desktop\Aulas\MySystem\obj\Debug\MySystem.pdb

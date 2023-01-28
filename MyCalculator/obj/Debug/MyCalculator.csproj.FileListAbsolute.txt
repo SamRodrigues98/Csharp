@@ -1,0 +1,7 @@
+C:\Users\modco\Desktop\Aulas\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\modco\Desktop\Aulas\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\modco\Desktop\Aulas\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\modco\Desktop\Aulas\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\modco\Desktop\Aulas\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\modco\Desktop\Aulas\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\modco\Desktop\Aulas\MyCalculator\obj\Debug\MyCalculator.pdb
